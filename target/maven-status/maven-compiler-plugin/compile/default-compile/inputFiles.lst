@@ -1,0 +1,9 @@
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/GreenPrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/RedPrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/SpringAppApplication.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/impl/EnglishRedPrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/ColorPrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/impl/EnglishBluePrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/BluePrinter.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/impl/ColorPrinterImpl.java
+/home/afuad.lab/Documents/Java-Spring-Boot/spring-app-context-component-annotation/src/main/java/com/fuad/springapp/services/impl/EnglishGreenPrinter.java
